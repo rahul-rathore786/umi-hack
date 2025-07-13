@@ -2,7 +2,8 @@
 ## 🔗 Live Website
 Visit the live version here: [https://no-risk-pot-final.vercel.app/](https://no-risk-pot-final.vercel.app/)
 Presentation Link Here(https://drive.google.com/file/d/18ypsebB1qEJnlcXQunI3V5tO5rs4JzAw/view?usp=drive_link)
-This Project has been submitted on the Umi Try-a-thon hack on the Dorahack platform build link is here (https://dorahacks.io/buidl/27783)
+### Submission info
+This Project has been submitted to the Umi Try-a-thon hack on the Dorahack platform, build link is here (https://dorahacks.io/buidl/27783)
 ## Project Overview
 
 No Risk Pot is a revolutionary DeFi lottery platform where users can participate in lottery draws without risking their principal investment. Here's how it works:
